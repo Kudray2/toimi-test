@@ -14,7 +14,8 @@ export const StyledHeader = styled.header`
   & :hover {
     color: green;
   }
-   > span {
+  > span {
     margin-right: auto;
   }
+  
 `;
